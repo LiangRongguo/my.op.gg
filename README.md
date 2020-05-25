@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![title_logo](https://github.com/LiangRongguo/my.op.gg/blob/master/README-RESOURCE/homepage.png)
+![title_logo](https://github.com/LiangRongguo/my.op.gg/blob/master/README-RESOURCE/HomePage.png)
 
-![image1](https://github.com/LiangRongguo/my.op.gg/blob/master/README-RESOURCE/championspage.png)
+![image1](https://github.com/LiangRongguo/my.op.gg/blob/master/README-RESOURCE/ChampionsPage.png)
 
 ## Available Scripts
 

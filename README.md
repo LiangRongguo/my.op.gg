@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image1](https://github.com/LiangRongguo/my.op.gg/blob/master/README-RESOURCE/ChampionsPage.png)
 
 ## To Run:
- `git clone`
+ `git clone git@github.com:LiangRongguo/my.op.gg.git`
  
  `cd my.op.gg`
  

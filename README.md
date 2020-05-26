@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![image1](https://github.com/LiangRongguo/my.op.gg/blob/master/README-RESOURCE/ChampionsPage.png)
 
+## To Run:
+ `git clone`
+ 
+ `cd my.op.gg`
+ 
+ `npm install`
+ 
+ `npm start`
+ 
+ `localhost:3000`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
